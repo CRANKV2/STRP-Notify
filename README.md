@@ -1,4 +1,11 @@
-# STRP-Notify
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/yxjz2Rl.jpg" width="500"></a></p>  
+
+ <h1 align="center"><b> STRP - Notify</b></h1> 
+
+ <h4 align="center">STRP Real-Time Notifications!</h4>
+
+ <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
 
 ## Introduction
 
