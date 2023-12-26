@@ -1,9 +1,9 @@
 #!/system/bin/sh
 
 su -lp 2000 -c "cmd notification post -S bigtext -t ' 𝙈𝘼𝘿𝙀 𝘽𝙔 @STRPxDEVS ' tag '━━━━━━━━━━━━
-Welcome to our new Real-Time
-Notifications!
-We will keep You Updated!
+Make sure ur System (OS) is
+Read/Write or the Notifications wont
+Appear Correctly!
 Regards,
 @CRANKV2 | STRPxDEVS
 ━━━━━━━━━━━━
