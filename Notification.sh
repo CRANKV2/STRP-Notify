@@ -1,9 +1,8 @@
 #!/system/bin/sh
 
 su -lp 2000 -c "cmd notification post -S bigtext -t ' 𝙈𝘼𝘿𝙀 𝘽𝙔 @STRPxDEVS ' tag '━━━━━━━━━━━━
-Make sure ur System (OS) is
-Read/Write or the Notifications wont
-Appear Correctly!
+Check out our latest Module
+Release, Avaiable trough our Dashboard!
 Regards,
 @CRANKV2 | STRPxDEVS
 ━━━━━━━━━━━━
